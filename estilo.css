@@ -3,3 +3,8 @@ body{
     text-align: center;
     font-family: "Arial";
 }
+a{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: end;
+    color: rgb(62, 247, 11);
+}
